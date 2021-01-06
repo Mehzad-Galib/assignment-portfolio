@@ -70,6 +70,7 @@ h1 {
     background-image: url(./gradient-background.png);
     color: khaki;
     margin-bottom: 60px;
+    text-align: justify;
 }
 
 .mytime img {
