@@ -16,6 +16,7 @@ h1 {
 
 .fpp {
     margin-bottom: 50px;
+    font-size: large;
 }
 
 .middle {
@@ -43,7 +44,7 @@ h1 {
     padding: 10px 20px;
     color: white;
     font-weight: bold;
-    background-image: linear-gradient( rgba(83, 39, 39, 0.651), cyan);
+    background-image: linear-gradient(rgb(5, 36, 23), red);
 }
 
 .passion-field {
