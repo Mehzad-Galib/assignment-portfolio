@@ -1,0 +1,109 @@
+body {
+    font-family: 'Lora', serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.upper-banner {
+    background-image: url(./bg-2.png);
+    background-repeat: no-repeat;
+    margin: 0%;
+}
+
+.fpp {
+    margin-bottom: 50px;
+}
+
+.middle {
+    text-align: center;
+}
+
+.equ-width {
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding: 2px;
+}
+
+.equ-width img {
+    width: 90%;
+    margin: 5px;
+}
+
+.namecolor {
+    color: blue
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    font-weight: bold;
+    background-image: linear-gradient( rgba(83, 39, 39, 0.651), cyan);
+}
+
+.passion-field {
+    margin: 5px;
+}
+
+.passtimes {
+    margin: 10%;
+    margin-bottom: 15px;
+    clear: both;
+    padding-bottom: 5%;
+}
+
+.mytime {
+    box-shadow: 10px 10px 5px 5px grey;
+    border-style: hidden;
+    border-radius: 20px;
+    height: 50%;
+    background-color: white;
+    float: left;
+    width: 25%;
+    margin-left: 5%;
+    padding-left: 10px;
+    background-image: url(./gradient-background.png);
+    color: khaki;
+    margin-bottom: 60px;
+}
+
+.mytime img {
+    width: 90%;
+    height: 60%;
+    margin: 15px;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    color: indigo;
+}
+
+h3,
+p {
+    text-align: center;
+}
+
+.last-part {
+    background-image: url(./Website-Background-scaled.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 10px 10px 10px 10px;
+    clear: both;
+    width: 100%;
+    height: 200px;
+    margin-top: 200px;
+    top: 20px;
+    color: black;
+    font-weight: bolder;
+}
+
+#txtbox {
+    text-align: center;
+}
